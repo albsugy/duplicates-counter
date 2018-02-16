@@ -18,4 +18,5 @@ You can use `yarn` too.
 - Alphanumeric Regex validation.
 - Display the count of duplicated characters.
 - Display the duplicated characters.
+- Ignore character case.
 - Only returns the count of the characters that occur more than once in a string.
