@@ -3,7 +3,7 @@ ReactJS, Styled-components and ES6.
 
 ## Live demo
 
-  https://duplicates-counter-qtdwwdlsaf.now.sh/
+  http://albsugy.com/live/duplicates-counter
 
 ## Getting Started
 Task | Description
