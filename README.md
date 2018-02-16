@@ -3,7 +3,7 @@ ReactJS, Styled-components and ES6.
 
 ## Live demo
 
-  https://geo-location-app-iqaswpygfr.now.sh
+  https://duplicates-counter-qtdwwdlsaf.now.sh/
 
 ## Getting Started
 Task | Description
